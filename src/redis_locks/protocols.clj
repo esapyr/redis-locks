@@ -1,0 +1,1 @@
+(ns redis-lock.protocols)
